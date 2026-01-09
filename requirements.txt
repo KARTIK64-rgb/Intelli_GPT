@@ -1,0 +1,28 @@
+fastapi
+uvicorn[standard]
+
+# PDF processing
+pymupdf
+
+# AWS S3
+boto3
+
+# Qdrant
+qdrant-client
+
+# Google Gemini (new SDK)
+google-genai
+
+# Utilities
+python-dotenv
+pydantic
+numpy
+pydantic-settings
+
+# FastAPI uploads
+python-multipart
+
+# Image processing and embeddings
+pillow
+torch
+open-clip-torch
